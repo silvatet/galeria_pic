@@ -53,8 +53,14 @@ class ImageProcessingApp:
 
     def setup_ui(self):
         """Configuração inicial da interface gráfica."""
-        self.root.geometry("900x650")
-        self.root.configure(bg="#F7F7F7")
+        self.root.geometry("1000x700")
+        self.root.configure(bg="#FFFFFF")
+
+        # Título do aplicativo
+        title_label = tk.Label(
+            self.root, text="Galeria PicBrand", font=("Arial", 24, "bold"), bg="#4CAF50", fg="#FFFFFF"
+        )
+        title_label.pack(fill=tk.X, pady=10)
 
         # Configuração de abas
         self.tab_control = ttk.Notebook(self.root)
