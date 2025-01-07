@@ -41,7 +41,7 @@
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/galeria-picbrand.git
+   https://github.com/silvatet/galeria_pic.git
 
 
 ## Como Usar
