@@ -1,0 +1,482 @@
+INFO:root:Pasta selecionada: 
+INFO:root:Pasta selecionada: 
+2024-12-19 13:41:20,300 - ERROR - Erro ao conectar ao banco de dados: 2003 (HY000): Can't connect to MySQL server on '189.15.240.26:3306' (10060)
+2024-12-19 13:41:20,301 - ERROR - Erro ao buscar dados: 2003 (HY000): Can't connect to MySQL server on '189.15.240.26:3306' (10060)
+2024-12-19 13:45:32,833 - ERROR - Erro ao conectar ao banco de dados: 2003 (HY000): Can't connect to MySQL server on '189.15.240.26:3306' (10060)
+2024-12-19 13:45:32,834 - ERROR - Erro ao buscar dados: 2003 (HY000): Can't connect to MySQL server on '189.15.240.26:3306' (10060)
+2024-12-20 10:39:33,121 - INFO - Abrindo conexão com o banco de dados.
+2024-12-20 10:39:54,382 - ERROR - Erro ao conectar ao banco de dados: 2003 (HY000): Can't connect to MySQL server on '189.15.240.26:3306' (10060)
+2024-12-20 10:42:45,998 - INFO - Tentando abrir a conexão com o banco de dados.
+2024-12-20 10:43:03,134 - INFO - Tentando abrir a conexão com o banco de dados.
+2024-12-20 10:43:24,217 - ERROR - Erro ao conectar ao banco de dados: 2003 (HY000): Can't connect to MySQL server on '189.15.240.26:3306' (10060)
+2024-12-20 10:43:24,218 - ERROR - Conexão não foi estabelecida, portanto não há o que fechar.
+2024-12-20 10:54:26,316 - INFO - Tentando abrir a conexão com o banco de dados.
+2024-12-20 10:54:47,461 - ERROR - Erro ao conectar ao banco de dados: 2003 (HY000): Can't connect to MySQL server on '189.15.240.26:3306' (10060)
+2024-12-20 10:54:47,462 - ERROR - Conexão não foi estabelecida, portanto não há o que fechar.
+2024-12-20 10:56:18,014 - INFO - Tentando abrir a conexão com o banco de dados.
+2024-12-20 10:56:39,189 - ERROR - Conexão não foi estabelecida, portanto não há o que fechar.
+2024-12-20 11:19:15,544 - INFO - Tentando abrir a conexão com o banco de dados.
+2024-12-20 11:19:15,686 - ERROR - Erro ao conectar ao banco de dados: 2005 (HY000): Unknown MySQL server host '127.0.0.1:3306' (11001)
+2024-12-20 11:19:15,686 - ERROR - Conexão não foi estabelecida, portanto não há o que fechar.
+2024-12-20 11:22:00,976 - INFO - Tentando abrir a conexão com o banco de dados.
+2024-12-20 11:22:03,188 - ERROR - Erro ao conectar ao banco de dados: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+2024-12-20 11:22:03,188 - ERROR - Conexão não foi estabelecida, portanto não há o que fechar.
+2024-12-20 11:38:29,174 - INFO - Tentando abrir a conexão com o banco de dados.
+2024-12-20 11:38:31,297 - ERROR - Erro ao conectar ao banco de dados: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+2024-12-20 11:38:31,313 - ERROR - Conexão não foi estabelecida, portanto não há o que fechar.
+2024-12-20 14:42:12,177 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Downloads/conect-hostinger-and-printer/conect-hostinger-and-printer/teste\captured_images\image_1734716532.jpg
+2024-12-20 14:51:06,082 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Downloads/conect-hostinger-and-printer/conect-hostinger-and-printer/teste/captured_images\captured_images\image_1734717066.jpg
+2024-12-28 14:07:25,405 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1735405645.jpg
+2024-12-28 14:10:32,936 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste de fotos\image_1735405832.jpg
+2024-12-28 14:10:47,157 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste de fotos\image_1735405847.jpg
+2024-12-28 14:17:10,841 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406230.jpg
+2024-12-28 14:17:16,643 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406236.jpg
+2024-12-28 14:17:24,841 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406244.jpg
+2024-12-28 14:17:31,795 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406251.jpg
+2024-12-28 14:18:49,218 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406329.jpg
+2024-12-28 14:19:13,249 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406353.jpg
+2024-12-28 14:19:32,717 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406372.jpg
+2024-12-28 14:21:04,530 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406464.jpg
+2024-12-28 14:21:37,280 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406497.jpg
+2024-12-28 14:29:48,858 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735406988.jpg
+2024-12-28 14:43:00,546 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735407780.jpg
+2024-12-28 14:43:07,703 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735407787.jpg
+2024-12-28 14:43:14,015 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735407794.jpg
+2024-12-28 14:43:19,046 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735407799.jpg
+2024-12-28 14:43:26,139 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735407806.jpg
+2024-12-28 14:45:24,488 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735407924.jpg
+2024-12-28 14:45:36,186 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735407936.jpg
+2024-12-28 14:52:57,374 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735408377.jpg
+2024-12-28 14:53:17,452 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735408397.jpg
+2024-12-28 14:53:41,576 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735408421.jpg
+2024-12-28 14:54:03,207 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735408443.jpg
+2024-12-28 14:56:29,124 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735408589.jpg
+2025-01-02 21:35:52,422 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/MATEUS\image_1735864552.jpg
+2025-01-02 21:35:52,436 - ERROR - Erro ao enviar image_1735864552.jpg para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:35:52,762 - ERROR - Erro ao enviar image_1735864552.jpg para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:05,709 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:12,343 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:12,580 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:12,956 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:13,158 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:13,367 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:13,577 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:13,770 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:13,930 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:14,105 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:14,321 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:22,731 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:22,932 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:23,122 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:23,307 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:23,990 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:24,276 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:24,540 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:24,755 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:24,977 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:41:25,160 - ERROR - Erro ao enviar pasta para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:50:53,552 - ERROR - Erro ao enviar image_1735865453.jpg para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:52:35,296 - ERROR - Erro ao enviar image_1735865555.jpg para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-02 21:54:59,948 - ERROR - Erro ao enviar para o Google Drive: [Errno 2] No such file or directory: 'credentials.json'
+2025-01-03 15:15:40,265 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 15:20:27,803 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427.jpg
+2025-01-03 15:20:33,318 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433.jpg
+2025-01-03 15:20:37,037 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437.jpg
+2025-01-03 15:20:40,009 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-03 15:20:42,014 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-03 15:20:42,536 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-03 15:20:42,729 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-03 15:20:43,035 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-03 15:20:49,430 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred.jpg
+2025-01-03 15:20:49,433 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred.jpg
+2025-01-03 15:20:49,446 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred.jpg
+2025-01-03 15:20:49,460 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred.jpg
+2025-01-03 15:20:49,472 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred.jpg
+2025-01-03 15:20:49,487 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred.jpg
+2025-01-03 15:20:49,500 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred.jpg
+2025-01-03 15:20:49,512 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred_blurred.jpg
+2025-01-03 15:20:49,513 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred.jpg
+2025-01-03 15:20:49,514 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred.jpg
+2025-01-03 15:20:49,516 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred_blurred.jpg
+2025-01-03 15:21:07,770 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928467.jpg
+2025-01-03 15:21:12,661 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928472.jpg
+2025-01-03 15:21:25,876 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred.jpg
+2025-01-03 15:21:25,896 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred.jpg
+2025-01-03 15:21:25,912 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred.jpg
+2025-01-03 15:21:25,924 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred.jpg
+2025-01-03 15:21:25,939 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred.jpg
+2025-01-03 15:21:25,952 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred.jpg
+2025-01-03 15:21:25,965 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred_blurred.jpg
+2025-01-03 15:21:25,978 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred_blurred.jpg
+2025-01-03 15:21:25,978 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred_blurred.jpg
+2025-01-03 15:21:25,992 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred_blurred.jpg
+2025-01-03 15:21:26,006 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred_blurred_blurred.jpg
+2025-01-03 15:21:26,018 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928467_blurred.jpg
+2025-01-03 15:21:26,032 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928467_blurred.jpg
+2025-01-03 15:21:26,044 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928472_blurred.jpg
+2025-01-03 15:21:26,058 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928472_blurred.jpg
+2025-01-03 15:21:26,072 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii/processed\image_1735928478_blurred.jpg
+2025-01-03 15:21:26,085 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii/processed\image_1735928483_blurred.jpg
+2025-01-03 15:21:26,100 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred_blurred_blurred.jpg
+2025-01-03 15:21:26,100 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred_blurred.jpg
+2025-01-03 15:21:26,101 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred_blurred_blurred.jpg
+2025-01-03 15:21:26,104 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928467_blurred.jpg
+2025-01-03 15:21:26,105 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928472_blurred.jpg
+2025-01-03 15:21:26,108 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,125 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred.jpg
+2025-01-03 15:22:15,139 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred.jpg
+2025-01-03 15:22:15,152 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred.jpg
+2025-01-03 15:22:15,165 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred.jpg
+2025-01-03 15:22:15,178 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred.jpg
+2025-01-03 15:22:15,191 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred.jpg
+2025-01-03 15:22:15,203 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred_blurred.jpg
+2025-01-03 15:22:15,216 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred_blurred.jpg
+2025-01-03 15:22:15,230 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred_blurred.jpg
+2025-01-03 15:22:15,242 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,256 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928467_blurred.jpg
+2025-01-03 15:22:15,275 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928467_blurred.jpg
+2025-01-03 15:22:15,289 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928472_blurred.jpg
+2025-01-03 15:22:15,302 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928472_blurred.jpg
+2025-01-03 15:22:15,315 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii/processed\image_1735928478_blurred.jpg
+2025-01-03 15:22:15,328 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii/processed\image_1735928483_blurred.jpg
+2025-01-03 15:22:15,341 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,356 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,357 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,371 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,397 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928467_blurred_blurred.jpg
+2025-01-03 15:22:15,411 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928472_blurred_blurred.jpg
+2025-01-03 15:22:15,424 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,437 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,438 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928427_blurred_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,440 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928467_blurred_blurred.jpg
+2025-01-03 15:22:15,442 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928472_blurred_blurred.jpg
+2025-01-03 15:22:15,444 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928433_blurred_blurred_blurred_blurred.jpg
+2025-01-03 15:22:15,448 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735928437_blurred_blurred_blurred_blurred.jpg
+2025-01-03 15:28:02,475 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 15:32:06,130 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 15:47:01,955 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021.jpg
+2025-01-03 15:47:12,318 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032.jpg
+2025-01-03 15:47:17,861 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred.jpg
+2025-01-03 15:47:17,864 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred.jpg
+2025-01-03 15:47:17,877 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_gaussian_blurred.jpg
+2025-01-03 15:47:17,884 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_emboss.jpg
+2025-01-03 15:47:17,889 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_sharpen.jpg
+2025-01-03 15:47:17,902 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred.jpg
+2025-01-03 15:47:17,912 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_gaussian_blurred.jpg
+2025-01-03 15:47:17,919 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_emboss.jpg
+2025-01-03 15:47:17,924 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_sharpen.jpg
+2025-01-03 15:47:17,938 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_blurred.jpg
+2025-01-03 15:47:17,947 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_gaussian_blurred.jpg
+2025-01-03 15:47:17,953 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_emboss.jpg
+2025-01-03 15:47:17,959 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_sharpen.jpg
+2025-01-03 15:47:17,971 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_blurred.jpg
+2025-01-03 15:47:17,980 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_gaussian_blurred.jpg
+2025-01-03 15:47:17,986 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_emboss.jpg
+2025-01-03 15:47:17,991 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_sharpen.jpg
+2025-01-03 15:47:18,005 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred_blurred.jpg
+2025-01-03 15:47:18,014 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred_gaussian_blurred.jpg
+2025-01-03 15:47:18,019 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred_emboss.jpg
+2025-01-03 15:47:18,025 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred_sharpen.jpg
+2025-01-03 15:47:18,026 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_gaussian_blurred.jpg
+2025-01-03 15:47:18,026 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_emboss.jpg
+2025-01-03 15:47:18,028 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_sharpen.jpg
+2025-01-03 15:47:18,030 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_blurred.jpg
+2025-01-03 15:47:18,033 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_gaussian_blurred.jpg
+2025-01-03 15:47:18,033 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_emboss.jpg
+2025-01-03 15:47:18,034 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930032_sharpen.jpg
+2025-01-03 15:47:18,035 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred_blurred.jpg
+2025-01-03 15:47:18,037 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred_gaussian_blurred.jpg
+2025-01-03 15:47:18,037 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred_emboss.jpg
+2025-01-03 15:47:18,038 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste do programa/2025_01_03/processed\image_1735930021_blurred_sharpen.jpg
+2025-01-03 15:52:13,057 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 15:58:11,553 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 15:59:35,988 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/uiuiui\image_1735930775.jpg
+2025-01-03 15:59:35,996 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775.jpg adicionada à lista de imagens a processar.
+2025-01-03 15:59:36,300 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775.jpg adicionada à lista de imagens a processar.
+2025-01-03 15:59:52,969 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred.jpg
+2025-01-03 15:59:52,973 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred.jpg
+2025-01-03 15:59:52,982 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_gaussian_blurred.jpg
+2025-01-03 15:59:52,988 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_emboss.jpg
+2025-01-03 15:59:52,994 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_sharpen.jpg
+2025-01-03 15:59:53,007 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred.jpg
+2025-01-03 15:59:53,015 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_gaussian_blurred.jpg
+2025-01-03 15:59:53,021 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_emboss.jpg
+2025-01-03 15:59:53,027 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_sharpen.jpg
+2025-01-03 15:59:53,039 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_blurred.jpg
+2025-01-03 15:59:53,048 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_gaussian_blurred.jpg
+2025-01-03 15:59:53,054 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_emboss.jpg
+2025-01-03 15:59:53,059 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_sharpen.jpg
+2025-01-03 15:59:53,060 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred.jpg adicionada à lista de imagens a processar.
+2025-01-03 15:59:53,060 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/uiuiui\image_1735930775_gaussian_blurred.jpg
+2025-01-03 15:59:53,061 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775_gaussian_blurred.jpg adicionada à lista de imagens a processar.
+2025-01-03 15:59:53,061 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/uiuiui\image_1735930775_emboss.jpg
+2025-01-03 15:59:53,062 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775_emboss.jpg adicionada à lista de imagens a processar.
+2025-01-03 15:59:53,062 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/uiuiui\image_1735930775_sharpen.jpg
+2025-01-03 15:59:53,063 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775_sharpen.jpg adicionada à lista de imagens a processar.
+2025-01-03 15:59:53,063 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_blurred.jpg
+2025-01-03 15:59:53,066 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_blurred.jpg adicionada à lista de imagens a processar.
+2025-01-03 15:59:53,066 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_gaussian_blurred.jpg
+2025-01-03 15:59:53,067 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_gaussian_blurred.jpg adicionada à lista de imagens a processar.
+2025-01-03 15:59:53,067 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_emboss.jpg
+2025-01-03 15:59:53,068 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_emboss.jpg adicionada à lista de imagens a processar.
+2025-01-03 15:59:53,068 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_sharpen.jpg
+2025-01-03 15:59:53,069 - INFO - Imagem C:/Users/Mateus/Desktop/uiuiui\image_1735930775_blurred_sharpen.jpg adicionada à lista de imagens a processar.
+2025-01-03 16:02:37,072 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 16:04:20,514 - INFO - Imagem C:/Users/Mateus/Desktop/teste final/2025_01_03\image_1735931060.jpg adicionada à lista de imagens a processar.
+2025-01-03 16:04:37,090 - INFO - Imagem C:/Users/Mateus/Desktop/teste final/2025_01_03\image_1735931077.jpg adicionada à lista de imagens a processar.
+2025-01-03 16:04:45,951 - INFO - Imagem C:/Users/Mateus/Desktop/teste final/2025_01_03\image_1735931085.jpg adicionada à lista de imagens a processar.
+2025-01-03 16:09:13,289 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 16:12:37,028 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 16:13:39,466 - ERROR - Erro ao capturar imagem: 'ImageProcessingApp' object has no attribute 'camera_index'
+2025-01-03 16:13:42,432 - ERROR - Erro ao capturar imagem: 'ImageProcessingApp' object has no attribute 'camera_index'
+2025-01-03 16:13:44,278 - ERROR - Erro ao capturar imagem: 'ImageProcessingApp' object has no attribute 'camera_index'
+2025-01-03 16:13:44,445 - ERROR - Erro ao capturar imagem: 'ImageProcessingApp' object has no attribute 'camera_index'
+2025-01-03 16:13:44,584 - ERROR - Erro ao capturar imagem: 'ImageProcessingApp' object has no attribute 'camera_index'
+2025-01-03 16:13:44,725 - ERROR - Erro ao capturar imagem: 'ImageProcessingApp' object has no attribute 'camera_index'
+2025-01-03 16:13:44,863 - ERROR - Erro ao capturar imagem: 'ImageProcessingApp' object has no attribute 'camera_index'
+2025-01-03 16:13:45,002 - ERROR - Erro ao capturar imagem: 'ImageProcessingApp' object has no attribute 'camera_index'
+2025-01-03 16:13:59,098 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste final/2025_01_03\image_1735931639.jpg
+2025-01-03 16:13:59,427 - INFO - Imagem C:/Users/Mateus/Desktop/teste final/2025_01_03\image_1735931639.jpg adicionada à lista de imagens a processar.
+2025-01-03 16:14:09,536 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste final/2025_01_03\image_1735931649.jpg
+2025-01-03 16:14:09,840 - INFO - Imagem C:/Users/Mateus/Desktop/teste final/2025_01_03\image_1735931649.jpg adicionada à lista de imagens a processar.
+2025-01-03 16:23:54,393 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 16:25:13,833 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste final2\image_1735932313.jpg
+2025-01-03 16:27:01,114 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste final2/2025_01_03\image_1735932421.jpg
+2025-01-03 16:35:55,841 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-03 16:38:29,224 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109.jpg
+2025-01-03 16:38:29,228 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109.jpg
+2025-01-03 16:38:29,229 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109.jpg
+2025-01-03 16:38:29,513 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109.jpg
+2025-01-03 16:38:38,915 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred.jpg
+2025-01-03 16:38:38,919 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred.jpg
+2025-01-03 16:38:38,931 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_gaussian_blurred.jpg
+2025-01-03 16:38:38,938 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_emboss.jpg
+2025-01-03 16:38:38,943 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_sharpen.jpg
+2025-01-03 16:38:38,956 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred.jpg
+2025-01-03 16:38:38,964 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_gaussian_blurred.jpg
+2025-01-03 16:38:38,970 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_emboss.jpg
+2025-01-03 16:38:38,975 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_sharpen.jpg
+2025-01-03 16:38:38,990 - INFO - Filtro Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_blurred.jpg
+2025-01-03 16:38:39,000 - INFO - Filtro Gaussian Blur aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_gaussian_blurred.jpg
+2025-01-03 16:38:39,006 - INFO - Filtro Emboss aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_emboss.jpg
+2025-01-03 16:38:39,011 - INFO - Filtro Sharpen aplicado em C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_sharpen.jpg
+2025-01-03 16:38:39,012 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred.jpg
+2025-01-03 16:38:39,012 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_gaussian_blurred.jpg
+2025-01-03 16:38:39,013 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_gaussian_blurred.jpg
+2025-01-03 16:38:39,013 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_emboss.jpg
+2025-01-03 16:38:39,014 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_emboss.jpg
+2025-01-03 16:38:39,014 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_sharpen.jpg
+2025-01-03 16:38:39,015 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_sharpen.jpg
+2025-01-03 16:38:39,015 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_blurred.jpg
+2025-01-03 16:38:39,017 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_blurred.jpg
+2025-01-03 16:38:39,018 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_gaussian_blurred.jpg
+2025-01-03 16:38:39,018 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_gaussian_blurred.jpg
+2025-01-03 16:38:39,018 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_emboss.jpg
+2025-01-03 16:38:39,019 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_emboss.jpg
+2025-01-03 16:38:39,019 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_sharpen.jpg
+2025-01-03 16:38:39,020 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/vaiiiiiiiiiiiiiii\image_1735933109_blurred_sharpen.jpg
+2025-01-06 12:37:08,470 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 12:38:53,660 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 12:40:02,641 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736178002.jpg
+2025-01-06 12:40:02,654 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178002.jpg
+2025-01-06 12:40:02,654 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/Nova pasta\image_1736178002.jpg
+2025-01-06 12:40:02,950 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178002.jpg
+2025-01-06 12:40:10,610 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736178010.jpg
+2025-01-06 12:40:10,617 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178010.jpg
+2025-01-06 12:40:10,617 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/Nova pasta\image_1736178010.jpg
+2025-01-06 12:40:10,922 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178010.jpg
+2025-01-06 12:40:37,859 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736178037.jpg
+2025-01-06 12:40:37,866 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178037.jpg
+2025-01-06 12:40:37,866 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/Nova pasta\image_1736178037.jpg
+2025-01-06 12:40:38,170 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178037.jpg
+2025-01-06 12:41:03,876 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736178063.jpg
+2025-01-06 12:41:03,881 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178063.jpg
+2025-01-06 12:41:03,882 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/Nova pasta\image_1736178063.jpg
+2025-01-06 12:41:04,185 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178063.jpg
+2025-01-06 12:41:15,188 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736178075.jpg
+2025-01-06 12:41:15,195 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178075.jpg
+2025-01-06 12:41:15,195 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/Nova pasta\image_1736178075.jpg
+2025-01-06 12:41:15,495 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178075.jpg
+2025-01-06 12:41:26,484 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736178086.jpg
+2025-01-06 12:41:26,491 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178086.jpg
+2025-01-06 12:41:26,492 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/Nova pasta\image_1736178086.jpg
+2025-01-06 12:41:26,791 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736178086.jpg
+2025-01-06 12:46:59,321 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 12:50:49,330 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 12:57:02,746 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 12:57:02,746 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 12:57:21,976 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 13:00:29,641 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 13:45:35,226 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 13:56:11,368 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:05:43,731 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:11:53,104 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:12:41,382 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:15:37,299 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:24:44,268 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:25:07,525 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:25:29,844 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Documents/Nova pasta\image_1736195129.jpg
+2025-01-06 17:25:29,844 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Documents/Nova pasta\image_1736195129.jpg
+2025-01-06 17:28:08,592 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:28:51,017 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331.jpg
+2025-01-06 17:28:51,042 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331.jpg
+2025-01-06 17:28:51,042 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331.jpg
+2025-01-06 17:28:51,167 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331.jpg
+2025-01-06 17:29:41,734 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381.jpg
+2025-01-06 17:29:41,762 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381.jpg
+2025-01-06 17:29:41,762 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381.jpg
+2025-01-06 17:29:41,974 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381.jpg
+2025-01-06 17:29:50,250 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390.jpg
+2025-01-06 17:29:50,272 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390.jpg
+2025-01-06 17:29:50,272 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390.jpg
+2025-01-06 17:29:50,497 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390.jpg
+2025-01-06 17:29:53,267 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred.jpg
+2025-01-06 17:29:53,273 - INFO - Blur aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred.jpg
+2025-01-06 17:29:53,327 - INFO - Blur aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred.jpg
+2025-01-06 17:29:53,400 - INFO - Blur aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_blurred.jpg
+2025-01-06 17:29:53,458 - INFO - Blur aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_blurred.jpg
+2025-01-06 17:29:53,504 - INFO - Blur aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_blurred.jpg
+2025-01-06 17:29:53,572 - INFO - Blur aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_blurred.jpg
+2025-01-06 17:29:53,656 - INFO - Blur aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred_blurred.jpg
+2025-01-06 17:29:53,656 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred.jpg
+2025-01-06 17:29:53,656 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_blurred.jpg
+2025-01-06 17:29:53,659 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_blurred.jpg
+2025-01-06 17:29:53,659 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_blurred.jpg
+2025-01-06 17:29:53,662 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_blurred.jpg
+2025-01-06 17:29:53,662 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred_blurred.jpg
+2025-01-06 17:29:53,663 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred_blurred.jpg
+2025-01-06 17:29:57,917 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_emboss.jpg
+2025-01-06 17:29:57,921 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_emboss.jpg
+2025-01-06 17:29:57,953 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_emboss.jpg
+2025-01-06 17:29:57,998 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_emboss.jpg
+2025-01-06 17:29:58,034 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_emboss.jpg
+2025-01-06 17:29:58,070 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_emboss.jpg
+2025-01-06 17:29:58,106 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_emboss.jpg
+2025-01-06 17:29:58,137 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred_emboss.jpg
+2025-01-06 17:29:58,171 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_blurred_emboss.jpg
+2025-01-06 17:29:58,225 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_blurred_emboss.jpg
+2025-01-06 17:29:58,254 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred_blurred_emboss.jpg
+2025-01-06 17:29:58,293 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_emboss_emboss.jpg
+2025-01-06 17:29:58,293 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_emboss.jpg
+2025-01-06 17:29:58,293 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_emboss.jpg
+2025-01-06 17:29:58,299 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_emboss.jpg
+2025-01-06 17:29:58,300 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_emboss.jpg
+2025-01-06 17:29:58,309 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_emboss.jpg
+2025-01-06 17:29:58,309 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred_emboss.jpg
+2025-01-06 17:29:58,311 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred_emboss.jpg
+2025-01-06 17:29:58,311 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_blurred_emboss.jpg
+2025-01-06 17:29:58,318 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195381_blurred_emboss.jpg
+2025-01-06 17:29:58,318 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_blurred_emboss.jpg
+2025-01-06 17:29:58,320 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195390_blurred_emboss.jpg
+2025-01-06 17:29:58,321 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred_blurred_emboss.jpg
+2025-01-06 17:29:58,324 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_blurred_blurred_emboss.jpg
+2025-01-06 17:29:58,324 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_emboss_emboss.jpg
+2025-01-06 17:29:58,328 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/Nova pasta\image_1736195331_emboss_emboss.jpg
+2025-01-06 17:31:36,791 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:33:55,233 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736195635.jpg
+2025-01-06 17:33:55,253 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195635.jpg
+2025-01-06 17:33:55,253 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736195635.jpg
+2025-01-06 17:33:55,416 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195635.jpg
+2025-01-06 17:34:29,329 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736195669.jpg
+2025-01-06 17:34:29,350 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195669.jpg
+2025-01-06 17:34:29,350 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736195669.jpg
+2025-01-06 17:34:29,599 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195669.jpg
+2025-01-06 17:35:07,109 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736195707.jpg
+2025-01-06 17:35:07,132 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195707.jpg
+2025-01-06 17:35:07,132 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736195707.jpg
+2025-01-06 17:35:07,230 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195707.jpg
+2025-01-06 17:35:29,219 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736195635_emboss.jpg
+2025-01-06 17:35:29,224 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/teste\image_1736195635_emboss.jpg
+2025-01-06 17:35:29,252 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/teste\image_1736195635_emboss.jpg
+2025-01-06 17:35:29,284 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/teste\image_1736195669_emboss.jpg
+2025-01-06 17:35:29,319 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/teste\image_1736195669_emboss.jpg
+2025-01-06 17:35:29,352 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/teste\image_1736195707_emboss.jpg
+2025-01-06 17:35:29,383 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/teste\image_1736195707_emboss.jpg
+2025-01-06 17:35:29,409 - INFO - Emboss aplicado em C:/Users/Mateus/Desktop/teste\image_1736195635_emboss_emboss.jpg
+2025-01-06 17:35:29,409 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195635_emboss.jpg
+2025-01-06 17:35:29,410 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736195669_emboss.jpg
+2025-01-06 17:35:29,411 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195669_emboss.jpg
+2025-01-06 17:35:29,411 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736195707_emboss.jpg
+2025-01-06 17:35:29,414 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195707_emboss.jpg
+2025-01-06 17:35:29,414 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736195635_emboss_emboss.jpg
+2025-01-06 17:35:29,415 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195635_emboss_emboss.jpg
+2025-01-06 17:36:00,416 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-06 17:36:05,364 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-06 17:36:05,511 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-06 17:36:05,652 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-06 17:36:05,792 - ERROR - Erro ao fazer upload: 'NoneType' object has no attribute 'CreateFile'
+2025-01-06 17:36:24,967 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736195784.jpg
+2025-01-06 17:36:24,993 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195784.jpg
+2025-01-06 17:36:24,994 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736195784.jpg
+2025-01-06 17:36:25,141 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736195784.jpg
+2025-01-06 17:39:47,040 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-06 17:40:08,167 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196008.jpg
+2025-01-06 17:40:08,193 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196008.jpg
+2025-01-06 17:40:08,193 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196008.jpg
+2025-01-06 17:40:08,392 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196008.jpg
+2025-01-06 17:40:34,234 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196034.jpg
+2025-01-06 17:40:34,260 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196034.jpg
+2025-01-06 17:40:34,260 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196034.jpg
+2025-01-06 17:40:34,349 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196034.jpg
+2025-01-06 17:40:53,030 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196053.jpg
+2025-01-06 17:40:53,058 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196053.jpg
+2025-01-06 17:40:53,058 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196053.jpg
+2025-01-06 17:40:53,129 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196053.jpg
+2025-01-06 17:41:01,545 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196061.jpg
+2025-01-06 17:41:01,564 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196061.jpg
+2025-01-06 17:41:01,564 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196061.jpg
+2025-01-06 17:41:01,747 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196061.jpg
+2025-01-06 17:41:10,311 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196070.jpg
+2025-01-06 17:41:10,358 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196070.jpg
+2025-01-06 17:41:10,358 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196070.jpg
+2025-01-06 17:41:10,447 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196070.jpg
+2025-01-06 17:41:21,515 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196081.jpg
+2025-01-06 17:41:21,540 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196081.jpg
+2025-01-06 17:41:21,541 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196081.jpg
+2025-01-06 17:41:21,618 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196081.jpg
+2025-01-06 17:41:33,625 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196093.jpg
+2025-01-06 17:41:33,654 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196093.jpg
+2025-01-06 17:41:33,654 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196093.jpg
+2025-01-06 17:41:33,827 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196093.jpg
+2025-01-06 17:42:17,858 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196137.jpg
+2025-01-06 17:42:17,897 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196137.jpg
+2025-01-06 17:42:17,897 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196137.jpg
+2025-01-06 17:42:17,952 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196137.jpg
+2025-01-06 17:42:35,858 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196155.jpg
+2025-01-06 17:42:35,880 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196155.jpg
+2025-01-06 17:42:35,880 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196155.jpg
+2025-01-06 17:42:36,050 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196155.jpg
+2025-01-06 17:42:43,390 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196163.jpg
+2025-01-06 17:42:43,418 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196163.jpg
+2025-01-06 17:42:43,418 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196163.jpg
+2025-01-06 17:42:43,472 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196163.jpg
+2025-01-06 17:43:01,546 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736196181.jpg
+2025-01-06 17:43:01,566 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196181.jpg
+2025-01-06 17:43:01,567 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736196181.jpg
+2025-01-06 17:43:01,732 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736196181.jpg
+2025-01-07 10:36:31,461 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-07 10:40:49,766 - ERROR - Erro na autenticação com o Google Drive: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+2025-01-07 10:41:20,130 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736257280.jpg
+2025-01-07 10:41:20,145 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257280.jpg
+2025-01-07 10:41:20,146 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736257280.jpg
+2025-01-07 10:41:20,220 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257280.jpg
+2025-01-07 10:41:43,157 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736257303.jpg
+2025-01-07 10:41:43,171 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257303.jpg
+2025-01-07 10:41:43,171 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736257303.jpg
+2025-01-07 10:41:43,314 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257303.jpg
+2025-01-07 10:42:19,655 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736257339.jpg
+2025-01-07 10:42:19,670 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257339.jpg
+2025-01-07 10:42:19,670 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736257339.jpg
+2025-01-07 10:42:19,818 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257339.jpg
+2025-01-07 10:43:24,922 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736257404.jpg
+2025-01-07 10:43:24,943 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257404.jpg
+2025-01-07 10:43:24,943 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736257404.jpg
+2025-01-07 10:43:25,040 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257404.jpg
+2025-01-07 10:52:10,093 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736257930.jpg
+2025-01-07 10:52:10,106 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257930.jpg
+2025-01-07 10:52:10,106 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736257930.jpg
+2025-01-07 10:52:10,253 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736257930.jpg
+2025-01-07 10:55:09,656 - INFO - Nova imagem detectada: C:/Users/Mateus/Desktop/teste\image_1736258109.jpg
+2025-01-07 10:55:09,674 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736258109.jpg
+2025-01-07 10:55:09,674 - INFO - Imagem capturada e salva em: C:/Users/Mateus/Desktop/teste\image_1736258109.jpg
+2025-01-07 10:55:09,955 - INFO - Imagem adicionada à lista: C:/Users/Mateus/Desktop/teste\image_1736258109.jpg
